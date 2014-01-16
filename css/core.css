@@ -1,0 +1,13 @@
+.primary-container {
+	padding: 15px;
+	margin: 0px auto;
+	max-width: 330px;
+}
+
+.relative-conatiner {
+	position: relative;
+}
+
+.fill-half {
+	width: 50%; 
+}
