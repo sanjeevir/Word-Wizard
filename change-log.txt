@@ -1,0 +1,4 @@
+20/01/2014
+1. added main.html page
+2. image container styles in progress
+3. folder structure for holding clues in progress
