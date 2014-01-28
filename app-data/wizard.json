@@ -1,0 +1,25 @@
+[
+    {
+        "user-name": "anonymous",
+        "score": 50,
+        "puzzles-completed": 6,
+        "levels-completed": [
+            {
+                "category": "general",
+                "levels": [
+                    1,
+                    2,
+                    3
+                ]
+            },
+            {
+                "category": "sports",
+                "levels": [
+                    1,
+                    2,
+                    3
+                ]
+            }
+        ]
+    }
+]

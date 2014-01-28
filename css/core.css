@@ -5,7 +5,7 @@ body {
 .primary-container {
 	/* padding: 15px; */
 	margin: 0px auto;
-	max-width: 330px;
+	/*max-width: 330px;*/
     
     border: 1px solid red;
 }
@@ -16,12 +16,21 @@ body {
 
 .clue-image{
     border-collapse: collapse;
+    padding: 2px;
     width: 50%;
-    height: 100px;
+    max-height: 200px;
 }
 
 .clue-image-left{
     padding-right: 2px;
+}
+
+.clue-image-top{
+    padding-bottom: 2px;
+}
+
+.clue-image-bottom{
+    padding-top: 2px;
 }
 
 .clue-image-right{
@@ -57,3 +66,26 @@ body {
 .clear-float {
 	clear: both;
 }*/
+
+.relative-container {
+    position: relative;
+}
+
+.letter-box {
+    width: 25px;
+    height: 25px;
+    border: 1px solid black;
+    margin: 1px;
+    float: left;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.letter-row {
+    max-width: 220px;
+}
+
+

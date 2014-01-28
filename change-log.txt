@@ -2,3 +2,11 @@
 1. added main.html page
 2. image container styles in progress
 3. folder structure for holding clues in progress
+
+28/01/2014
+0. Worked further on fluidity of main.html page
+1. Folder structure for images created
+2. Solution.json created for holding answer in each level
+3. Created folder to hold add data
+4. Created wizard.json in app-data folder to store user data
+5. Added meta.json in app-data folder for storing app meta data
